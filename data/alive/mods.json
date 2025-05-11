@@ -1,0 +1,16 @@
+{
+  "Mods": [
+    {
+      "Name": "Alive",
+      "Instructions": "Alive is a mod by baarilliant.ai that adds AI-powered villagers to Minecraft. It allows villagers to have unique personalities, backstories, and behaviors."
+    },
+    {
+      "Name": "Fabric",
+      "Instructions": "Fabric is a lightweight, modular modding toolchain for Minecraft. It provides the foundation for many mods, including Alive."
+    },
+    {
+      "Name": "Minecraft",
+      "Instructions": "Minecraft is a sandbox game developed by Mojang Studios where players can build and explore virtual worlds made up of blocks."
+    }
+  ]
+}
